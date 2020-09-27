@@ -8,7 +8,7 @@ favicon = pygame.image.load("images/favicon.png")
 pygame.display.set_icon(favicon)
 pygame.display.set_caption('PONG!')
 
-#Set screen dimentions
+#Set screen dimentions (scaleable)
 screen_width = 512
 screen_height = 256
 
