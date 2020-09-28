@@ -93,8 +93,7 @@ while True:
     paddle_1.Draw(black, paddle_1.offset)
     paddle_2.Draw(black, screen_width - paddle_2.offset)
     ball.Draw(black)
-    ball_2.Draw(black)
-    ball_3.Draw(black)
+
 
     pygame.display.update()
 
